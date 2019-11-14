@@ -1,0 +1,6 @@
+{
+    "name" : "My Videos App",
+    "mail" : {
+        "host" : "dev-mail-server"
+    }
+}
